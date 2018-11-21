@@ -1,1 +1,1 @@
-# hexo_images
+# moqimoqidea hexo images
